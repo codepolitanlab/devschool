@@ -1,0 +1,83 @@
+/*! Place your custom styles here */
+html {
+  scroll-behavior: smooth;
+}
+.bar .logo {
+	max-height: 50px;
+	top: -5px;
+	position: absolute;
+	z-index: 9;
+}
+
+.partner-logo {
+	padding-top: 50px;
+}
+
+.partner-logo img {
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 30px;
+}
+
+.perbandingan-tabel {
+	padding-top: 50px;
+}
+
+.perbandingan-tabel .table tr td {
+	color: #ffffff;
+}
+
+.perbandingan-tabel .table tr td.td-sorot {
+	background: #1c85be;
+}
+
+.pricing.boxed.pricing-1.boxed--border .h1 {
+	font-size: 45px;
+}
+
+.pricing.boxed.pricing-1.boxed--border h4 {
+	margin-bottom: 60px;
+}
+
+.pricing.boxed.pricing-1.boxed--border p:first-of-type {
+    margin-top: 50px;
+}
+
+.pricing.boxed.pricing-1.boxed--border p:last-of-type{
+	margin-bottom: 20px;
+}
+
+.margin-xl-top {
+	margin-top: 60px;
+}
+
+.offline-course-map {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+}
+
+.offline-course-map-mask {
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	height: 500px;
+	background: rgba(0,0,0,0.5);
+}
+
+.offline-course-map-mask .map-btn {
+	position: absolute;
+	bottom: 100px;
+	width: 100%;
+}
+
+.register-form-wrapper .tab__content {
+	background: #ffffff;
+	padding: 30px;
+}
+
+.register-form-wrapper .tabs-container .tabs {
+	background: #ffffff;
+}
+
+

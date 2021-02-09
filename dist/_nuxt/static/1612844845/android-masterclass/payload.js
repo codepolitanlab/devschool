@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/android-masterclass", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/training-intensif-basic-front-end-web-development", {data:[{}],fetch:[],mutations:void 0});
