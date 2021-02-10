@@ -1,6 +1,9 @@
 import webpack from 'webpack'
 
 export default {
+  generate: {
+    dir: 'docs'
+  },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
